@@ -1,3 +1,5 @@
 Welcome to Git Hub
 HTML
 CSS
+JAVA Script
+Angular
